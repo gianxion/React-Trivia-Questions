@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of India?",
+      "choices": ["NY", "Athens", "Pakistan", "New Delhi"],
+      "correctAnswerIdx": 3
+    },
+    {
+      "question": "What is the capital of Greece?",
+      "choices": ["NY", "Athens", "Pakistan", "New Delhi"],
+      "correctAnswerIdx": 1
+    },
+    {
+      "question": "What is love?",
+      "choices": ["baby don't hurt me", "don't hurt me", "no", "more"],
+      "correctAnswerIdx": 0
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "choices": ["Canberra", "Sydney ", "New Zealand", "Melbourne"],
+      "correctAnswerIdx": 0
+    },
+    {
+      "question": "What is the best color? ",
+      "choices": ["white", "black ", "blue", "rgb"],
+      "correctAnswerIdx": 2
+    },
+    {
+      "question": "How much is x = 3 + 2a?",
+      "choices": ["10", "5a ", "unknown", "are you f*ing kidding me"],
+      "correctAnswerIdx": 3
+    }
+  ]
+}
