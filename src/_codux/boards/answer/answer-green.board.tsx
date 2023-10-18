@@ -3,6 +3,6 @@ import Answer from '../../../components/Answer';
 
 export default createBoard({
     name: 'AnswerGreen',
-    Board: () => <Answer text="New Delhi" color="green" />,
+    Board: () => <Answer text="New Delhi" color="green" onPress={() => {}} />,
     isSnippet: true,
 });
